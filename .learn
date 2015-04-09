@@ -1,0 +1,11 @@
+languages:
+  - ruby
+  - sql
+tags:
+  - sinatra
+  - mvc
+  - kids
+  - sql
+  - active record
+type:
+  - teacher guide
