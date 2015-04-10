@@ -17,7 +17,7 @@ The way that we use the internet would be vastly different if we couldn’t save
 ### Lesson Plan
 **BEFORE CLASS: DOWNLOAD MYSQL** You can find the guide for downloading and using MYSQL [here](https://github.com/flatiron-school-curriculum/hs-ruby2-teachers-guide-mysql-setup)
 ***Code snippets can be found [here](https://github.com/flatiron-school-curriculum/hs-week-3-code-snippets)***
-***Sample completed project for today can be found [here](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-sinatra-template/tree/week-2)
+***Sample completed project for today can be found [here](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-sinatra-template/tree/week-3)
 
 
 + **WHAT IS A DATABASE**
