@@ -11,13 +11,14 @@
   + MODEL - Understand that ActiveRecord works with models to execute SQL commands.
   + ACTIVE RECORD - Use Active Record to access data from a database
 
-
-
 ### Motivation / Why Should You Care?
 The way that we use the internet would be vastly different if we couldn’t save our data. You wouldn’t be able to have sites like facebook, tumblr, yelp or pretty much anything. Databases make all of these applications possible. They are the backbone of the web. We’re going to learn how to persist (save) data so that it is accessible from different places at different times.
 
 ### Lesson Plan
 **BEFORE CLASS: DOWNLOAD MYSQL** You can find the guide for downloading and using MYSQL [here](https://github.com/flatiron-school-curriculum/hs-ruby2-teachers-guide-mysql-setup)
+***Code snippets can be found [here](https://github.com/flatiron-school-curriculum/hs-week-3-code-snippets)***
+***Sample completed project for today can be found [here](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-sinatra-template/tree/week-2)
+
 
 + **WHAT IS A DATABASE**
   * A relational database is essentially a series of tables that can be joined to one another.Each table is like an excel spreadsheet.
