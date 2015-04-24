@@ -15,9 +15,9 @@
 The way that we use the internet would be vastly different if we couldn’t save our data. You wouldn’t be able to have sites like facebook, tumblr, yelp or pretty much anything. Databases make all of these applications possible. They are the backbone of the web. We’re going to learn how to persist (save) data so that it is accessible from different places at different times.
 
 ### Lesson Plan
-**BEFORE CLASS: DOWNLOAD MYSQL** You can find the guide for downloading and using MYSQL [here](https://github.com/flatiron-school-curriculum/hs-ruby2-teachers-guide-mysql-setup)
-***Code snippets can be found [here](https://github.com/flatiron-school-curriculum/hs-week-3-code-snippets)***
-***Sample completed project for today can be found [here](https://github.com/flatiron-school-curriculum/hs-advanced-ruby-sinatra-template/tree/week-3)
+**BEFORE CLASS: DOWNLOAD MYSQL** You can find the guide for downloading and using MYSQL [here](https://github.com/learn-co-curriculum/hs-ruby2-teachers-guide-mysql-setup)
+***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
+***Sample completed project for today can be found [here](https://github.com/learn-co-curriculum/hs-advanced-ruby-sinatra-template/tree/week-3)
 
 
 + **WHAT IS A DATABASE**
@@ -67,10 +67,10 @@ The way that we use the internet would be vastly different if we couldn’t save
   * `select * from students where name="zach"` gives us one record if there is a match
   * `SELECT * FROM sunday_students WHERE favorite_food = "pizza"` gives all info about all students that like pizza
   * ``SELECT name FROM sunday_students WHERE favorite_food = "pizza"` gives us the names of the students who's fav food is pizza
-  * SQL Challenges on board: https://github.com/flatiron-school-curriculum/hs-sql-queries-challenge 
+  * SQL Challenges on board: https://github.com/learn-co-curriculum/hs-sql-queries-challenge 
 
 + **ACTIVE RECORD**
-  ***Code snippets can be found [here](https://github.com/flatiron-school-curriculum/hs-week-3-code-snippets)***
+  ***Code snippets can be found [here](https://github.com/learn-co-curriculum/hs-week-3-code-snippets)***
   * SQL can be hard to write, especially when you're trying to pulll information from multiple tables.
   * ActiveRecord is gem that sets up a SQL databse and lets us write ruby code to read and write to the database
   * Gemfile: add 'activerecord' and 'sinatra-activerecord' and 'sqlite3' and 'rake' gems to your gemfile
