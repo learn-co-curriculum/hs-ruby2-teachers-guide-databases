@@ -133,3 +133,5 @@ Databases are extremely powerful tools that allow for applications to store info
 + MySQL workbench works on all computers (PC, Mac, Chromebook)
 + Make sure they understand how SQL works and test the DB before class
 
+
+<a href='https://learn.co/lessons/hs-ruby2-teachers-guide-databases' data-visibility='hidden'>View this lesson on Learn.co</a>
