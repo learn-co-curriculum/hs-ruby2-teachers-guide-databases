@@ -134,4 +134,4 @@ Databases are extremely powerful tools that allow for applications to store info
 + Make sure they understand how SQL works and test the DB before class
 
 
-<a href='https://learn.co/lessons/hs-ruby2-teachers-guide-databases' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby2-teachers-guide-databases' title='SWABTS'>SWABTS</a> on Learn.co and start learning to code for free.</p>
